@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<list>
+        <personbook>
+                <name>Alexander Lemeshev</name>
+		<book>"Best Short Stories" O. Henry</book>
+	</personbook>
+        <personbook>
+		<name>Dmitry Khotko</name>
+		<book>"For Whom the Bell Tolls" Ernest Hemingway</book>
+	</personbook>
+        <personbook>
+		<name>Sasha Grey</name>
+		<book>"Theatre" Somerset Maugham</book>
+	</personbook>
+        <personbook>
+		<name>Tania Bunas</name>
+		<book>"The Jungle Book" Rudyard Kipling</book>
+	</personbook>
+        <personbook>
+		<name>Tom Cruz</name>
+		<book>"Misery" Stephen King</book>
+	</personbook>
+        <personbook>
+		<name>Dmitry Khotko</name>
+		<book>"The Picture of Dorian Gray" Oscar Wilde</book>
+        </personbook>
+</list>
+
